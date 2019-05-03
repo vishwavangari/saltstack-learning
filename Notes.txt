@@ -1,0 +1,19 @@
+Salt master (VM) 
+Salt minion (VM)
+
+Salt stack is configuration tool  like chef, ansible, puppet.
+
+Salt stack is written in Python.
+
+salt-cli
+
+Basic jinja2
+
+salt state files
+slat grian files
+
+Installing Salt(Salt-Master/Linux):
+
+t2-micro on AWS.
+
+
